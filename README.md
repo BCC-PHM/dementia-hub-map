@@ -1,6 +1,6 @@
 # Dementia Hub Map
 
-Mapping Birmnigham [Dementia Hub groups](https://birminghamcarershub.org.uk/wp-content/uploads/2025/11/Dementia-Hub-groups-1.pdf).
+Mapping Birmingham [Dementia Hub groups](https://birminghamcarershub.org.uk/wp-content/uploads/2025/11/Dementia-Hub-groups-1.pdf).
 
 <img src="output/dementia-hub-groups.png" alt="Locations of the Birmingham Dementia Hub groups across the city showing their type and frequency." width="50%" />
 
